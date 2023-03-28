@@ -1,0 +1,8 @@
+D:\cprojects\ConsoleApp4\Fifth Task\bin\Debug\Fifth Task.exe.config
+D:\cprojects\ConsoleApp4\Fifth Task\bin\Debug\Fifth Task.exe
+D:\cprojects\ConsoleApp4\Fifth Task\bin\Debug\Fifth Task.pdb
+D:\cprojects\ConsoleApp4\Fifth Task\obj\Debug\Fifth Task.csproj.AssemblyReference.cache
+D:\cprojects\ConsoleApp4\Fifth Task\obj\Debug\Fifth Task.csproj.SuggestedBindingRedirects.cache
+D:\cprojects\ConsoleApp4\Fifth Task\obj\Debug\Fifth Task.csproj.CoreCompileInputs.cache
+D:\cprojects\ConsoleApp4\Fifth Task\obj\Debug\Fifth Task.exe
+D:\cprojects\ConsoleApp4\Fifth Task\obj\Debug\Fifth Task.pdb

@@ -1,0 +1,8 @@
+D:\cprojects\ConsoleApp4\Third Task\bin\Debug\Third Task.exe.config
+D:\cprojects\ConsoleApp4\Third Task\bin\Debug\Third Task.exe
+D:\cprojects\ConsoleApp4\Third Task\bin\Debug\Third Task.pdb
+D:\cprojects\ConsoleApp4\Third Task\obj\Debug\Third Task.csproj.AssemblyReference.cache
+D:\cprojects\ConsoleApp4\Third Task\obj\Debug\Third Task.csproj.SuggestedBindingRedirects.cache
+D:\cprojects\ConsoleApp4\Third Task\obj\Debug\Third Task.csproj.CoreCompileInputs.cache
+D:\cprojects\ConsoleApp4\Third Task\obj\Debug\Third Task.exe
+D:\cprojects\ConsoleApp4\Third Task\obj\Debug\Third Task.pdb

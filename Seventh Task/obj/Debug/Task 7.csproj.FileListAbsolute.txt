@@ -1,0 +1,8 @@
+D:\cprojects\ConsoleApp4\Seventh Task\bin\Debug\Seventh Task.exe.config
+D:\cprojects\ConsoleApp4\Seventh Task\bin\Debug\Seventh Task.exe
+D:\cprojects\ConsoleApp4\Seventh Task\bin\Debug\Seventh Task.pdb
+D:\cprojects\ConsoleApp4\Seventh Task\obj\Debug\Task 7.csproj.AssemblyReference.cache
+D:\cprojects\ConsoleApp4\Seventh Task\obj\Debug\Task 7.csproj.SuggestedBindingRedirects.cache
+D:\cprojects\ConsoleApp4\Seventh Task\obj\Debug\Task 7.csproj.CoreCompileInputs.cache
+D:\cprojects\ConsoleApp4\Seventh Task\obj\Debug\Seventh Task.exe
+D:\cprojects\ConsoleApp4\Seventh Task\obj\Debug\Seventh Task.pdb
